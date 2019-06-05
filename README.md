@@ -18,7 +18,7 @@ In this version players competed for control of planets using ships in space.
 
 ### Final Rankings
 
-[User Profile](https://halite.io/user/?user_id=9239)  
+[User Profile](https://2017.halite.io/user/?user_id=9239)  
 Tier: Bronze  
 Rating: 37.04  
 Global Rank: 379  
